@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactstrapSignIn/static/css/main.eca5090e.chunk.css",
+    "main.js": "/ReactstrapSignIn/static/js/main.3c546574.chunk.js",
+    "main.js.map": "/ReactstrapSignIn/static/js/main.3c546574.chunk.js.map",
+    "runtime-main.js": "/ReactstrapSignIn/static/js/runtime-main.bc66adc6.js",
+    "runtime-main.js.map": "/ReactstrapSignIn/static/js/runtime-main.bc66adc6.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/ReactstrapSignIn/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.13039c0f.chunk.js": "/ReactstrapSignIn/static/js/2.13039c0f.chunk.js",
+    "static/js/2.13039c0f.chunk.js.map": "/ReactstrapSignIn/static/js/2.13039c0f.chunk.js.map",
+    "index.html": "/ReactstrapSignIn/index.html",
+    "precache-manifest.769840045f46016614ddebb0df914c64.js": "/ReactstrapSignIn/precache-manifest.769840045f46016614ddebb0df914c64.js",
+    "service-worker.js": "/ReactstrapSignIn/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/ReactstrapSignIn/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.eca5090e.chunk.css.map": "/ReactstrapSignIn/static/css/main.eca5090e.chunk.css.map",
+    "static/js/2.13039c0f.chunk.js.LICENSE.txt": "/ReactstrapSignIn/static/js/2.13039c0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc66adc6.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.13039c0f.chunk.js",
+    "static/css/main.eca5090e.chunk.css",
+    "static/js/main.3c546574.chunk.js"
+  ]
+}
